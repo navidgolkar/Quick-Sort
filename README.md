@@ -1,2 +1,2 @@
 # Quick-Sort
-A simple visualization of how heap sort works
+A simple visualization of how quick sort works
